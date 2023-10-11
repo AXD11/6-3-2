@@ -1,0 +1,14 @@
+table,th,td{
+    font-size: 25px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+tr{
+    height: 75;
+}
+th{
+    background-color: aquamarine;
+}
+td{
+    text-align: center;
+}
